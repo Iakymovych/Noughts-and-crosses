@@ -1,0 +1,14 @@
+﻿Сборка начата 17.04.2015 17:10:32.
+     1>Проект "C:\Users\user\Documents\Visual Studio 2013\Projects\TEMP\MY_LIB_STR\MY_LIB_STR\MY_LIB_STR.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt mystring.cpp
+         mystring.cpp
+     1>c:\users\user\documents\visual studio 2013\projects\temp\my_lib_str\my_lib_str\mystring.cpp(211): warning C4101: i: неиспользованная локальная переменная
+       Lib:
+         C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\Lib.exe /OUT:"C:\Users\user\Documents\Visual Studio 2013\Projects\TEMP\MY_LIB_STR\Debug\MY_LIB_STR.lib" /NOLOGO Debug\mystring.obj
+         MY_LIB_STR.vcxproj -> C:\Users\user\Documents\Visual Studio 2013\Projects\TEMP\MY_LIB_STR\Debug\MY_LIB_STR.lib
+     1>Сборка проекта "C:\Users\user\Documents\Visual Studio 2013\Projects\TEMP\MY_LIB_STR\MY_LIB_STR\MY_LIB_STR.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:00.53
